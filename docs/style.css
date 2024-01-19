@@ -1,3 +1,23 @@
+nav{
+    padding:20px;
+    background-color: blue;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    margin:auto;
+    top:0;
+    position:fixed;
+    width: 100%;
+}
+nav a {
+    padding:20px;
+    color:white;
+    background-color:blue;
+}
+nav a:hover{
+    background-color:grey;
+}
+
 h1{
     font-family: 'IBM Plex Serif', serif;
     font-size: 100px;
