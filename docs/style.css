@@ -1,7 +1,7 @@
 nav{
     padding:20px;
-    background-color: blue;
-    color:white;
+    background-color: #0000FF;
+    color:#FFFFFF;
     font-family: 'Times New Roman', Times, serif;
     font-size:20px;
     margin:auto;
@@ -11,11 +11,11 @@ nav{
 }
 nav a {
     padding:20px;
-    color:white;
-    background-color:blue;
+    color:#FFFFFF;
+    background-color:#0000FF;
 }
 nav a:hover{
-    background-color:grey;
+    background-color:#808080;
 }
 
 h1{
@@ -29,5 +29,5 @@ p{
     font-family: 'Open Sans', sans-serif;
 }
 body{
-    background-color: red;
+    background-color: #FF0000;
 }
