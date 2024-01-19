@@ -35,3 +35,16 @@ p{
 body{
     background-color: #f56c6c;
 }
+button{
+    background-color: green;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 7px;
+
+}
+button:hover{
+    opacity: 60%;
+    cursor: pointer;
+}
